@@ -1,4 +1,4 @@
-# 🌦 Weather Data Analysis and Air Quality Dashboard – Power BI
+# 🌦 Weather Data Analysis  – Power BI
 
 ### 👨‍💻 Created by: **Shithil Yadav**
 
